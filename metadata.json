@@ -1,0 +1,6 @@
+{
+  "name": "CodePlay - Plataforma de Ensino de Programação",
+  "description": "Aprenda desenvolvimento web do zero ao avançado criando projetos reais com o CodePlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
